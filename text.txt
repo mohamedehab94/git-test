@@ -1,2 +1,3 @@
 Hello from git test
 test
+test merge
